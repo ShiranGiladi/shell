@@ -1,4 +1,4 @@
-/* CreateMenu command get 2 parameters: the name of the restaurant,
+/* CreateMenu command receives 2 parameters: the name of the restaurant,
    and the number of types of items (such as main dish, salad, etc...)
    
    The user will need to enter the type of item (Type Dish). Then enter the name of the item and the price in shekels (NIS),
