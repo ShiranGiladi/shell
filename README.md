@@ -6,3 +6,5 @@ such as create menu, get specific dish price from specific restaurant, make orde
 The correctness of the commands can be assumed.
 
 **Does not support pipe commands
+
+*Credit to Amne Slame for doing this project with me :)
