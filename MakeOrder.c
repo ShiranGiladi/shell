@@ -1,4 +1,4 @@
-/* MakeOrder command accepts 2 parameters: the name of the restaurant and the name of the orderer.
+/* MakeOrder command receives 2 parameters: the name of the restaurant and the name of the orderer.
    The command asks the user to enter the item to order and the desired quantity. 
    The system calculates the final amount to be paid after the user has finished choosing (type "Finish"),
    The user confirms by typing "confirm" then the system creates a file for the order in the orderer's name containing
