@@ -1,4 +1,4 @@
-/* getMenu command get 1 parameter: restaurant name 
+/* getMenu command receives 1 parameter: restaurant name 
    the command will print tha menu */
 
 #include <stdio.h>
